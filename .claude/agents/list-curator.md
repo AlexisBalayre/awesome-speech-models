@@ -11,11 +11,10 @@ Turn candidate projects into clean, verified, correctly-filed entries for this c
 
 ## 1. Load the rules
 - Read `CONTRIBUTING.md` for the exact entry format and curation rules.
+- Read `.claude/skills/curating-an-entry/SKILL.md` for editorial guidance (one-liner craft, tags, section placement, ordering, quality bar).
 - Read the target section README(s) to learn existing structure, ordering, and what's already there.
 
 ## 2. For each candidate
-Before classifying or writing one-liners, Read `.claude/skills/curating-an-entry/SKILL.md` for editorial guidance. `CONTRIBUTING.md` remains canonical for format.
-
 1. **Verify it's real & live** — `gh repo view <owner>/<repo> --json name,description,stargazerCount,pushedAt,url` or WebFetch the URL. Anything that 404s or can't be confirmed is dropped.
 2. **De-dupe** — Grep the lists for the name/URL. If present, skip and note it.
 3. **Classify** — pick the correct domain and section.
