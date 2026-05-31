@@ -13,7 +13,7 @@ One bullet per entry, in this shape:
 Example:
 
 ```
-- **[Whisper](https://github.com/openai/whisper)** — robust multilingual ASR; the de-facto open baseline. `model` `multilingual`
+- **[Whisper](https://github.com/openai/whisper)** — robust multilingual ASR; the de-facto open baseline. `multilingual`
 ```
 
 ## Rules
