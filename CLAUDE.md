@@ -18,3 +18,9 @@ A curated knowledge hub (an "awesome list") of open-source tools, models, datase
 - Don't pad sections with low-quality or unmaintained entries — quality over quantity.
 - Don't fabricate links, names, or descriptions. If unsure, verify it or leave a `<!-- TODO -->`.
 - Don't reformat or reorder unrelated entries while making a small change.
+
+## Curation tooling
+
+This repo is content-only. The multi-agent curation pipeline (source monitoring, verification,
+audit, apply) lives in the private hub workspace that wraps this repo; curated additions arrive
+as `curation/<date>` PRs.
