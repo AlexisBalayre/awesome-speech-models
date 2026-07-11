@@ -12,9 +12,9 @@ Keep descriptions factual — the curator verifies everything before anything la
 | [k2-fsa](https://github.com/k2-fsa) | Next-gen Kaldi: sherpa-onnx, icefall — ASR + on-device inference → `asr` | never |
 | [speechbrain](https://github.com/speechbrain) | SpeechBrain all-in-one PyTorch toolkit → `asr`/`tts` | never |
 | [espnet](https://github.com/espnet) | ESPnet end-to-end speech toolkit → `asr`/`tts` | never |
-| [wenet-e2e](https://github.com/wenet-e2e) | WeNet production ASR, WeSpeaker → `asr` | never |
-| [pyannote](https://github.com/pyannote) | pyannote-audio — speaker diarization → `asr` | never |
-| [snakers4](https://github.com/snakers4) | Silero VAD + models → `asr` | never |
+| [wenet-e2e](https://github.com/wenet-e2e) | WeNet production ASR, WeSpeaker → `asr`/`diarization` | never |
+| [pyannote](https://github.com/pyannote) | pyannote-audio — speaker diarization → `diarization` | never |
+| [snakers4](https://github.com/snakers4) | Silero VAD + models → `diarization`/`tts` | never |
 | [fishaudio](https://github.com/fishaudio) | fish-speech, Bert-VITS2 → `tts` | never |
 | [SWivid](https://github.com/SWivid) | F5-TTS → `tts` | never |
 | [resemble-ai](https://github.com/resemble-ai) | chatterbox, resemble-enhance → `tts` | never |

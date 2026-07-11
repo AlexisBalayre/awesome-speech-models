@@ -7,7 +7,6 @@ Speech → text. Curated tools, models, data, and research.
 - **[NVIDIA NeMo](https://github.com/NVIDIA/NeMo)** — toolkit for ASR/TTS/LLM, strong pretrained models. `toolkit`
 - **[WhisperX](https://github.com/m-bain/whisperX)** — Whisper pipeline adding word-level timestamps, forced alignment, and speaker diarization. `diarization`
 - **[FunASR](https://github.com/modelscope/FunASR)** — industrial ASR toolkit with pretrained models for recognition, VAD, punctuation, and speaker diarization. `multilingual` `diarization`
-- **[Silero VAD](https://github.com/snakers4/silero-vad)** — lightweight pre-trained voice activity detector with ONNX and streaming support. `vad` `on-device`
 - **[resemble-enhance](https://github.com/resemble-ai/resemble-enhance)** — speech denoising and enhancement (denoiser + bandwidth extension), usable as ASR preprocessing. `enhancement`
 - **[WeKWS](https://github.com/wenet-e2e/wekws)** — end-to-end keyword spotting (wake-word) toolkit aimed at production. `on-device`
 

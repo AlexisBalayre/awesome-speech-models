@@ -9,6 +9,8 @@ A curated knowledge base of **open-source tools, models, datasets, and research*
 | [ASR](./asr) | Automatic Speech Recognition — speech → text |
 | [TTS](./tts) | Text-to-Speech — text → speech |
 | [Speech-to-Speech](./speech-to-speech) | Direct speech↔speech, voice conversion, spoken dialogue |
+| [Speech LLM](./speech-llm) | Speech/audio LLMs — audio-language models, spoken QA, audio captioning |
+| [Diarization](./diarization) | Speaker analysis — diarization, speaker embedding/verification, VAD |
 
 ## How this is organized
 
