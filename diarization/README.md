@@ -3,8 +3,9 @@
 Speaker analysis: diarization (who spoke when), speaker embedding/verification, and voice activity detection.
 
 ## Tools & Libraries
+- **[pyannote-audio](https://github.com/pyannote/pyannote-audio)** — neural building blocks for speaker diarization: VAD, speaker change, overlap, embeddings; pretrained pipelines. `diarization` `vad`
 - **[Silero VAD](https://github.com/snakers4/silero-vad)** — lightweight pre-trained voice activity detector with ONNX and streaming support. `vad` `on-device`
-<!-- add: pyannote-audio, WeSpeaker, ... (verify before adding) -->
+<!-- add: WeSpeaker, ... (verify before adding) -->
 
 ## Models
 <!-- speaker embedding models, end-to-end diarization models, ... -->
