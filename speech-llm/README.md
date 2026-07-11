@@ -5,6 +5,7 @@ Speech/audio LLMs and audio understanding: audio-language models, spoken QA/dial
 ## Tools & Libraries
 - **[lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)** — unified evaluation harness for multimodal LLMs spanning text, image, video, and audio. `evaluation`
 - **[UltraEval-Audio](https://github.com/OpenBMB/UltraEval-Audio)** — evaluation framework for speech and audio LLMs across understanding and generation benchmarks. `evaluation`
+- **[SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM)** — recipe-based toolkit for training speech, audio, and music LLMs. `multimodal`
 <!-- frameworks for building / serving audio-language models -->
 
 ## Models
@@ -17,6 +18,7 @@ Speech/audio LLMs and audio understanding: audio-language models, spoken QA/dial
 ## Datasets
 - **[AudioSet](https://research.google.com/audioset/)** — 2M human-labeled 10-second YouTube clips over a 632-class sound-event ontology. `audio-events`
 - **[AudioCaps](https://audiocaps.github.io/)** — 46K in-the-wild audio clips with crowdsourced captions, built on AudioSet. `captioning`
+- **[Clotho](https://zenodo.org/records/4783391)** — audio captioning dataset of 6,974 clips with five crowdsourced captions each (v2.1). `captioning`
 - **[WavCaps](https://huggingface.co/datasets/cvssp/WavCaps)** — 400K weakly-labelled clips with ChatGPT-assisted captions for audio-language pretraining. `captioning`
 - **[OpenAQA (LTU)](https://github.com/YuanGongND/ltu)** — 5.6M (audio, question, answer) tuples for audio instruction tuning; trained LTU. `instruction-tuning`
 <!-- audio-instruction data, spoken QA, audio captioning corpora, ... -->

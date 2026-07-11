@@ -14,17 +14,19 @@ Speech → text. Curated tools, models, data, and research.
 
 ## Models
 - **[Whisper](https://github.com/openai/whisper)** — robust multilingual ASR; de-facto open baseline. `multilingual`
+- **[wav2vec 2.0](https://huggingface.co/facebook/wav2vec2-base-960h)** — self-supervised speech representation model introduced in arXiv:2006.11477; CTC-finetuned on LibriSpeech. `ctc`
 - **[Qwen3-ASR-1.7B](https://huggingface.co/Qwen/Qwen3-ASR-1.7B)** — Apache-2.0 ASR covering 30 languages and 22 Chinese dialects; unified streaming/offline inference. `multilingual` `streaming`
 - **[Canary-Qwen-2.5B](https://huggingface.co/nvidia/canary-qwen-2.5b)** — NVIDIA speech-augmented LLM pairing a FastConformer encoder with a Qwen decoder; English-only. `llm`
 - **[Granite 4.0 1B Speech](https://huggingface.co/ibm-granite/granite-4.0-1b-speech)** — IBM's compact Apache-2.0 speech recognition model covering six languages. `multilingual`
-<!-- add: wav2vec2, Parakeet, ... -->
+<!-- add: Parakeet, ... -->
 
 ## Datasets
 - **[LibriSpeech](https://www.openslr.org/12)** — 1,000 hours of read English audiobook speech; the standard ASR benchmark corpus. `read-speech`
 - **[Common Voice](https://commonvoice.mozilla.org/)** — Mozilla's crowdsourced multilingual speech corpus spanning 100+ languages, continuously growing. `multilingual` `crowdsourced`
 - **[GigaSpeech](https://github.com/SpeechColab/GigaSpeech)** — 10,000 hours of transcribed English audio from audiobooks, podcasts, and YouTube. `multi-domain`
 - **[Multilingual LibriSpeech](https://www.openslr.org/94/)** — 50,000-hour audiobook corpus extending LibriSpeech to eight European languages. `multilingual` `read-speech`
-<!-- add: People's Speech, ... -->
+- **[People's Speech](https://huggingface.co/datasets/MLCommons/peoples_speech)** — 30,000+ hours of transcribed English speech under CC-BY/CC-BY-SA licensing. `multi-domain`
+<!-- add: ... -->
 
 ## Benchmarks & Leaderboards
 - **[Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)** — ranks open ASR models by WER and RTFx across English, multilingual, and long-form suites. `multilingual`
