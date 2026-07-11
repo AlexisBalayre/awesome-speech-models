@@ -30,7 +30,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the entry format and curation rules
 
 ## Companion repos
 
-- `awesome-agents/` — agents knowledge hub (separate monorepo)
+- `awesome-agents/` — LLM agents knowledge hub (frameworks, protocols, memory, evals, safety)
 
 ---
 _Started 2026-05-25. Curated, opinionated, work in progress._
