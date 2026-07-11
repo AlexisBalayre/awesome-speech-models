@@ -14,6 +14,7 @@ Speech/audio LLMs and audio understanding: audio-language models, spoken QA/dial
 - **[Ultravox](https://github.com/fixie-ai/ultravox)** — multimodal LLM for real-time voice; projects audio directly into the LLM embedding space. `realtime`
 - **[Kimi-Audio](https://github.com/MoonshotAI/Kimi-Audio)** — open audio foundation model for understanding, generation, and speech conversation. `voice-chat`
 - **[Audio Flamingo](https://github.com/NVIDIA/audio-flamingo)** — NVIDIA audio-understanding model series adding long-audio reasoning and multi-turn chat. `long-audio`
+- **[Nemotron Labs Audex](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B)** — unified audio-text MoE LLM (30B-A3B) spanning ASR, TTS, speech translation, and speech-to-speech. `voice-chat` `license-restricted`
 
 ## Datasets
 - **[AudioSet](https://research.google.com/audioset/)** — 2M human-labeled 10-second YouTube clips over a 632-class sound-event ontology. `audio-events`

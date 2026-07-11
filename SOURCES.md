@@ -8,6 +8,7 @@ Keep descriptions factual — the curator verifies everything before anything la
 | Source | Focus | Last checked |
 | :-- | :-- | :-- |
 | [kyutai-labs](https://github.com/kyutai-labs) | Speech-to-speech (Moshi), neural audio codec (Mimi), STT/TTS (delayed-streams-modeling), streaming translation (Hibiki), unmute | 2026-07-11 |
+| [nvidia (Hugging Face)](https://huggingface.co/nvidia) | Nemotron speech line (3.5 ASR live; TTS/S2S announced, weights pending), Canary, Parakeet, Sortformer, Audio Flamingo → `asr`/`speech-llm`/`diarization` | 2026-07-11 |
 | [ggml-org](https://github.com/ggml-org) | whisper.cpp (de-facto on-device ASR inference), ggml → `asr` · inference | 2026-07-11 |
 | [k2-fsa](https://github.com/k2-fsa) | Next-gen Kaldi: sherpa-onnx, icefall — ASR + on-device inference → `asr` | 2026-07-11 |
 | [speechbrain](https://github.com/speechbrain) | SpeechBrain all-in-one PyTorch toolkit → `asr`/`tts` | 2026-07-11 |
