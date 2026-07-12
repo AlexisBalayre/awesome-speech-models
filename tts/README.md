@@ -34,6 +34,7 @@ Text → speech. Curated tools, models, data, and research.
 ## Benchmarks & Leaderboards
 - **[TTS Arena V2](https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2)** — crowdsourced blind A/B arena producing Elo rankings of open and proprietary TTS. `crowdsourced`
 - **[Artificial Analysis — Text-to-Speech](https://artificialanalysis.ai/text-to-speech)** — independent leaderboard comparing quality Elo, price, and speed across TTS providers. `closed-source`
+- **[Coval TTS Benchmarks](https://benchmarks.coval.ai/tts)** — scheduled TTS benchmark measuring time-to-first-audio, intelligibility WER, and consistency. `voice-agents`
 <!-- MOS / naturalness / intelligibility, ... -->
 
 ## Optimization & Inference

@@ -19,6 +19,7 @@ Direct speech↔speech: spoken dialogue models, voice conversion, real-time tran
 ## Benchmarks & Leaderboards
 - **[Full-Duplex-Bench](https://github.com/DanielLin94144/Full-Duplex-Bench)** — evaluates turn-taking, backchannels, and interruption handling in full-duplex dialogue models. `full-duplex`
 - **[URO-Bench](https://github.com/Ruiqi-Yan/URO-Bench)** — end-to-end benchmark testing understanding, reasoning, and oral conversation in spoken dialogue models. `conversational`
+- **[Artificial Analysis — Speech-to-Speech](https://artificialanalysis.ai/speech-to-speech)** — independent leaderboard scoring speech reasoning, conversational dynamics, agentic performance, latency, and price. `closed-source`
 <!-- latency, turn-taking, naturalness, translation quality, ... -->
 
 ## Optimization & Inference

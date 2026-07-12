@@ -36,6 +36,8 @@ Keep descriptions factual — the curator verifies everything before anything la
 | [Artificial Analysis — Text-to-Speech](https://artificialanalysis.ai/text-to-speech) | TTS leaderboard: Arena Elo, price, speed across 80+ models → `tts` | 2026-07-11 |
 | [HF Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) | WER + RTF across ASR models → `asr` | 2026-07-11 |
 | [TTS Arena V2](https://huggingface.co/spaces/TTS-AGI/TTS-Arena-V2) | Crowdsourced Elo ranking of TTS models → `tts` | 2026-07-11 |
+| [Artificial Analysis — Speech-to-Speech](https://artificialanalysis.ai/speech-to-speech) | S2S leaderboard: speech reasoning, conversational dynamics, agentic performance across ~27 models → `speech-to-speech` | 2026-07-12 |
+| [Coval Voice AI Benchmarks](https://benchmarks.coval.ai) | Scheduled STT/TTS latency + accuracy benchmarks, open methodology (coval-ai/benchmarks) → `asr`/`tts` | 2026-07-12 |
 
 ## Repos (single)
 | Source | Why | Last checked |
