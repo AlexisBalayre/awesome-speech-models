@@ -32,6 +32,7 @@ Speech → text. Curated tools, models, data, and research.
 ## Benchmarks & Leaderboards
 - **[Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)** — ranks open ASR models by WER and RTFx across English, multilingual, and long-form suites. `multilingual`
 - **[Artificial Analysis — Speech-to-Text](https://artificialanalysis.ai/speech-to-text)** — independent leaderboard comparing WER, speed, and price across open and commercial models. `closed-source`
+- **[Coval STT Benchmarks](https://benchmarks.coval.ai/stt)** — scheduled voice-agent benchmark tracking STT latency and accuracy; open-source methodology. `voice-agents`
 <!-- WER/CER on standard sets, ... -->
 
 ## Optimization & Inference
